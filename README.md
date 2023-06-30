@@ -1,2 +1,2 @@
 # passionshoes
-Passion shoes gti repository
+Passion shoes git repository
